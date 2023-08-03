@@ -27,10 +27,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
 
-
-  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %> <%= javascript_pack_tag 'application' %>
-
-  <%= javascript_include_tag "/assets/application.js", "data-turbo-track": "reload", defer: true %> <%= javascript_pack_tag 'application' %>
 
